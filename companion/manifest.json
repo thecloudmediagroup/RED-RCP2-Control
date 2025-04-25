@@ -1,0 +1,25 @@
+{
+	"id": "RCP2-Control",
+	"name": "RED RCP2 Camera Control",
+	"shortname": "RCP2-Control",
+	"description": "RCP2 Red Camera Control via websocket",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/thecloudmediagroup/RED-RCP2-Control.git",
+	"bugs": "https://github.com/thecloudmediagroup/RED-RCP2-Control/issues",
+	"maintainers": [
+		{
+			"name": "Seth Haberman"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../main.js"
+	},
+	"manufacturer": "R3D",
+	"products": ["RCP2 Camera Control"],
+	"keywords": ["websocket", "RED", "Raptor", "R3D", "RCP", "RCP2" ]
+}
