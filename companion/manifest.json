@@ -1,5 +1,5 @@
 {
-	"id": "RCP2-Control",
+	"id": "red-rcp2",
 	"name": "RED RCP2 Camera Control",
 	"shortname": "RCP2-Control",
 	"description": "RCP2 Red Camera Control via websocket",
@@ -9,7 +9,8 @@
 	"bugs": "https://github.com/thecloudmediagroup/RED-RCP2-Control/issues",
 	"maintainers": [
 		{
-			"name": "Seth Haberman"
+			"name": "Seth Haberman",
+            "email": "Seth.C.Haberman@gmail.com"
 		}
 	],
 	"legacyIds": [],
