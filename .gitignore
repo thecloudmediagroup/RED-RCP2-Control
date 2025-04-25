@@ -1,4 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Node.js
 node_modules/
-/pkg
-/pkg.tgz
-/DEBUG-*
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
